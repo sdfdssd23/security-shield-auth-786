@@ -1,0 +1,1 @@
+const service_4fet = <T>(args: T): T => { return args; };
